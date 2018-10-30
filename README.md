@@ -1,5 +1,9 @@
 # share_activity_2
 
+Jahir Roberto Rivas Vazquez A01204988
+Gerardo Melesio Sancen A01203843
+Alec Garcia Barba A01022495
+
 This directory contains data from power consumption of the first floor of certain building
 
 "this_week.csv" and "las_week.csv" contain power consumption sampled every 5 minutes
